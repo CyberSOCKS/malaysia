@@ -48,6 +48,8 @@
 		-webkit-text-size-adjust: none;
 	}
 
+.center { text-align: center; }
+
 /* Box Model */
 
 	*, *:before, *:after {
